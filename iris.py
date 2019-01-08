@@ -13,7 +13,7 @@ def generateclassificationreport(test, pred):
 
 
 # importing the dataSet
-url = 'iris.csv'
+url = 'datasets/iris.csv'
 names = ['sepal-length', 'sepal-width', 'petal-length', 'petal-width', 'class']
 dataSet = pandas.read_csv(url, names=names)
 
