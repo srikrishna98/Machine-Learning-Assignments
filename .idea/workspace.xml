@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ffaa0b2-e047-4467-ae07-cdc45f4a9093" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/iris.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/perceptron.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zomato.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/student-dataset.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/student-dataset.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zomato.py" beforeDir="false" afterPath="$PROJECT_DIR$/zomato.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/auto-dataset-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/auto-dataset-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto-dataset.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/auto-dataset.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -268,7 +264,7 @@
   <component name="ToolWindowManager">
     <frame x="55" y="25" width="1311" height="743" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23794466" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23794466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
