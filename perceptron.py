@@ -5,7 +5,7 @@ def predict(row, weights):
     return 1.0 if activation >= 0.0 else 0.0
 
 
-# Estimate Perceptron weights using stochastic gradient descent
+# Estimate Perceptron weights using the formula used in class
 def train_weights(train, l_rate, n_epoch):
     weights = [0.0 for i in range(len(train[0]))]
     for epoch in range(n_epoch):
