@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ffaa0b2-e047-4467-ae07-cdc45f4a9093" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Airquality.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/Immunotherapy.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/student-mat.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/medical-dataset.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iris.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perceptron.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zomato.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/airquality.py" beforeDir="false" afterPath="$PROJECT_DIR$/airquality.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student-dataset.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/student-dataset.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zomato.py" beforeDir="false" afterPath="$PROJECT_DIR$/zomato.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,51 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/iris.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/airquality.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="26" selection-start-line="26" selection-end-line="26" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datasets/AirQualityUCI.csv">
-          <provider editor-type-id="csv-table-editor">
-            <state showInfoPanel="true" rowLines="3">
-              <column index="0" width="100" />
-              <column index="1" width="100" />
-              <column index="2" width="100" />
-              <column index="3" width="100" />
-              <column index="4" width="100" />
-              <column index="5" width="100" />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="csv-text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -76,7 +32,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/iris.ipynb" />
         <option value="$PROJECT_DIR$/iris.csv" />
         <option value="$PROJECT_DIR$/iris.py" />
         <option value="$PROJECT_DIR$/iris_custom.py" />
@@ -84,11 +39,14 @@
         <option value="$PROJECT_DIR$/univariateLR.py" />
         <option value="$PROJECT_DIR$/iris_univariate.py" />
         <option value="$PROJECT_DIR$/datasets/zomato.csv" />
-        <option value="$PROJECT_DIR$/zomato.py" />
         <option value="$PROJECT_DIR$/perceptron.py" />
         <option value="$PROJECT_DIR$/medical-dataset.ipynb" />
         <option value="$PROJECT_DIR$/airquality.py" />
         <option value="$PROJECT_DIR$/Airquality.ipynb" />
+        <option value="$PROJECT_DIR$/iris.ipynb" />
+        <option value="$PROJECT_DIR$/zomato.ipynb" />
+        <option value="$PROJECT_DIR$/perceptron.ipynb" />
+        <option value="$PROJECT_DIR$/zomato.py" />
       </list>
     </option>
   </component>
@@ -309,14 +267,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="25" width="1311" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23794466" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23794466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26058632" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26058632" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -339,7 +296,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="comments changed" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/iris.ipynb" />
     <entry file="file://$PROJECT_DIR$/iris_custom.py" />
     <entry file="file://$PROJECT_DIR$/univariateLR.py" />
     <entry file="file://$PROJECT_DIR$/datasets/iris.csv">
@@ -383,23 +339,6 @@
       </provider>
       <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/zomato.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/perceptron.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/datasets/student-mat.csv">
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" rowLines="3" />
@@ -411,17 +350,6 @@
         <state showInfoPanel="true" rowLines="3" />
       </provider>
       <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iris_univariate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-            <marker date="1546960209726" expanded="true" signature="1667:1716" ph="..." />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/datasets/AirQualityUCI.csv">
       <provider editor-type-id="csv-table-editor">
@@ -437,16 +365,6 @@
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iris.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -466,11 +384,70 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/airquality.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
+        <state relative-caret-position="572">
           <caret line="26" selection-start-line="26" selection-end-line="26" selection-end-column="13" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iris.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iris_univariate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="67" lean-forward="true" selection-start-line="59" selection-end-line="67" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+            <marker date="1546960209726" expanded="true" signature="1667:1716" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zomato.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/perceptron.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zomato.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/perceptron.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="31" lean-forward="true" selection-start-line="29" selection-end-line="31" />
         </state>
       </provider>
     </entry>

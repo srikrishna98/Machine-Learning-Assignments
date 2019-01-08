@@ -44,8 +44,8 @@ test = [[cost[i], rating[i]] for i in range(cost.size-325, cost.size)]
 
 print("Test data:")
 print(test)
-# print("Predictions:")
-# print(simple_linear_regression(train,test))
+print("Predictions:")
+print(simple_linear_regression(train,test))
 
 plt.scatter(cost[:175], rating[:175], color='blue')
 # plt.plot(sep_len[:15],pet_len[:15],color = 'red')
